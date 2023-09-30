@@ -297,5 +297,15 @@ line-height: 38px; /* 172.727% */
 .lower_1>h5{
   display: inline-block;
   padding-top: 50px;
+  padding-left: 20px;
   justify-content: space-evenly;
+}
+.cards_section{
+  display: flex;
+  justify-content: space-around;
+   align-items: center ;
+  
+}
+.card{
+  padding: 20px;
 }
